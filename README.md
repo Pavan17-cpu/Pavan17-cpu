@@ -1,77 +1,75 @@
-# Hi there, I'm TIPARANI MANIKANTA SAI PAVAN 👋
-
-![Profile Views](https://komarev.com/ghpvc/?username=Pavan17-cpu&color=blue)
-
-I am a **Full Stack Developer** with expertise in the **MERN stack** and **Spring Boot**, passionate about **AWS** and certified as an **AWS Cloud Practitioner** and **AWS Solutions Architect – Associate**. I thrive in collaborative environments, demonstrated through my participation in hackathons like **JP Morgan’s Code for Good**, **Smart India Hackathon**, and the **Coursevita Hackathon**. My journey is fueled by innovation, problem-solving, and learning new technologies.
+# 👋 Hello, I'm TIPARANI MANIKANTA SAI PAVAN!
 
 ---
 
-## 🛠️ Skills & Technologies
+## 🌟 About Me
 
-- **Programming Languages:** C, Java
-- **Development Stacks:** MERN (MongoDB, Express, React, Node.js), Spring Boot
-- **Databases:** MySQL, MongoDB, PostgreSQL
-- **Certifications:** 
-  - AWS Certified Cloud Practitioner [🛡️](https://www.credly.com/badges/559c1cc5-609f-45de-8cc6-5a4dcae4815a/public_url)
-  - AWS Certified Solutions Architect – Associate [🛡️](https://www.credly.com/badges/cf16d0f4-a257-4fe9-9bc8-81f4e210a2c5/public_url)
-  - Red Hat Certified Enterprise Application Developer [🛡️](https://www.credly.com/badges/ee574b74-8eca-4b10-95e8-dfd65300dbd1/public_url)
+I am a **Full Stack Developer** with a strong passion for **Cloud Computing** and extensive experience in **AWS**. I specialize in building scalable, efficient applications using **MERN Stack**, **Spring Boot**, and **AWS services**. My journey has been fueled by innovation, problem-solving, and participation in **hackathons** like JP Morgan’s **Code for Good** and **Smart India Hackathon**.  
+
+I hold globally recognized certifications in **AWS Cloud Practitioner**, **AWS Solutions Architect – Associate**, and **Red Hat Enterprise Application Development**, reflecting my commitment to continuous learning and expertise in modern technologies.
 
 ---
 
-## 🚀 Projects
+## 🎓 Certifications
 
-### 🌐 [Room Rental Management System](https://github.com/Pavan17-cpu/room-rental-management)
-- **Tech Stack:** React, Express.js, MongoDB
-- **Description:** A platform to streamline room rental processes using an interactive React-based UI.
-
-### 📚 [Library Management System](https://github.com/Pavan17-cpu/library-management)
-- **Tech Stack:** JavaServer Faces, JPA, MySQL
-- **Description:** A full-stack application to manage library operations efficiently.
-
-### 🎟️ [Event Booking System](https://github.com/Pavan17-cpu/event-booking)
-- **Tech Stack:** JSP, Hibernate, MySQL
-- **Description:** Simplifies online event reservations with secure data storage.
-
-### 🎥 [Aniflow](https://github.com/Pavan17-cpu/aniflow)
-- **Tech Stack:** MERN Stack
-- **Description:** A dynamic anime streaming platform with API integration for reviews and playback.
-
-### 🛒 [E-Commerce Website](https://github.com/Pavan17-cpu/e-commerce)
-- **Tech Stack:** React, Redux, Node.js
-- **Description:** An e-commerce platform with state management using Redux and data stored in JSON.
+- ![AWS Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud%20Practitioner-orange?style=for-the-badge)  
+  [View Credential](https://www.credly.com/badges/559c1cc5-609f-45de-8cc6-5a4dcae4815a/public_url)  
+- ![AWS Solutions Architect](https://img.shields.io/badge/AWS-Solutions%20Architect-orange?style=for-the-badge)  
+  [View Credential](https://www.credly.com/badges/cf16d0f4-a257-4fe9-9bc8-81f4e210a2c5/public_url)  
+- ![Red Hat Certified Developer](https://img.shields.io/badge/Red%20Hat-Certified%20Developer-red?style=for-the-badge)  
+  [View Credential](https://www.credly.com/badges/ee574b74-8eca-4b10-95e8-dfd65300dbd1/public_url)
 
 ---
 
-## 🎖️ Achievements
+## 🛠️ My Tech Stack
 
-- **JP Morgan Code for Good 2024:** 
-  - Led a 7-member team to develop a MERN-based application for NGO challenges, enhanced with AWS analytics.
-- **Coursevita Hackathon 2024:**
-  - Built a MERN application for effective project tracking with user authentication and role-based access.
-
----
-
-## 📚 Education
-
-- **B.Tech in Computer Science and Engineering** (2021 - Present)
-  - KL University, Vijayawada
-  - **CGPA:** 9.79/10
+| **Category**           | **Skills**                                                                                 |
+|-------------------------|-------------------------------------------------------------------------------------------|
+| **Programming**         | ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) |
+| **Frontend Development**| ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![JSF](https://img.shields.io/badge/JSF-lightgrey?style=for-the-badge) |
+| **Backend Development** | ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) |
+| **Databases**           | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) |
+| **Cloud**               | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) |
+| **Tools & Versioning**  | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github) |
 
 ---
 
-## 📈 Stats & Badges
+## 🏆 Achievements
+
+### 🚀 Hackathons
+- **JP Morgan Code for Good 2024**  
+  ![MERN](https://img.shields.io/badge/MERN-Stack-blue?style=for-the-badge)  
+  Developed a **MERN application** for an NGO using **AWS Analytics** to enhance functionality.
+
+- **Coursevita Hackathon 2024**  
+  Built a **project tracker** with **role-based authentication** for managing deadlines.
+
+---
+
+## 📚 Notable Projects
+
+| **Project**                           | **Description**                                                                                  | **Tech Stack**                           |
+|---------------------------------------|--------------------------------------------------------------------------------------------------|------------------------------------------|
+| **[Room Rental System](#)**           | A platform for managing room rentals using interactive UI.                                       | React, Node.js, MongoDB                  |
+| **[Library Management System](#)**    | A full-stack system for library operations using **Java** technologies.                         | JSF, JPA, MySQL                          |
+| **[Aniflow](#)**                       | Anime streaming site with an integrated API for reviews and playback.                          | MERN                                     |
+| **[E-Commerce Platform](#)**          | Online shopping platform with Redux-based state management.                                      | React, Redux, Node.js                    |
+
+---
+
+## 📈 Stats & Visuals
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pavan17-cpu&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pavan17-cpu&layout=compact&theme=radical)
 
 ---
 
-## 🔗 Let's Connect!
+## 🌐 Let's Connect
 
-[![GitHub](https://img.shields.io/badge/GitHub-Pavan17--cpu-blue?logo=github)](https://github.com/Pavan17-cpu)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Manikanta%20Sai%20Pavan-blue?logo=linkedin)](http://www.linkedin.com/in/manikanta-sai-pavan)
-[![Email](https://img.shields.io/badge/Email-mmsp13266%40gmail.com-red?logo=gmail)](mailto:mmsp13266@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Pavan17--cpu-blue?style=for-the-badge&logo=github)](https://github.com/Pavan17-cpu)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Manikanta%20Sai%20Pavan-blue?style=for-the-badge&logo=linkedin)](http://www.linkedin.com/in/manikanta-sai-pavan)  
+[![Email](https://img.shields.io/badge/Email-mmsp13266%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:mmsp13266@gmail.com)
 
 ---
 
-_✨ Always striving to innovate and learn. Let’s build something amazing together!_
+💡 _"Harnessing the power of AWS and cutting-edge technologies to drive impactful solutions."_
