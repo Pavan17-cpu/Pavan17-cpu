@@ -12,7 +12,7 @@ I hold globally recognized certifications in **AWS Cloud Practitioner**, **AWS S
 
 ## 🎓 Certifications
 
-- ![AWS Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud%20Practitioner-orange?style=for-the-badge)  
+- ![AWS Cloud Practitioner](https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)  
   [View Credential](https://www.credly.com/badges/559c1cc5-609f-45de-8cc6-5a4dcae4815a/public_url)  
 - ![AWS Solutions Architect](https://img.shields.io/badge/AWS-Solutions%20Architect-orange?style=for-the-badge)  
   [View Credential](https://www.credly.com/badges/cf16d0f4-a257-4fe9-9bc8-81f4e210a2c5/public_url)  
