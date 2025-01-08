@@ -3,7 +3,7 @@
 ---
 
 <div align="center">
-  <img src="https://cdn.dribbble.com/users/22923/screenshots/2595694/media/4a89b4ba2e2b362aa989e7b9f5e7ab84.gif" alt="Java Animation" width="300"/>
+  <img src="https://media.giphy.com/media/ZeRM6VTR5sU1W/giphy.gif" alt="Java Animation" width="300"/>
 </div>
 
 ---
@@ -100,4 +100,11 @@ I am a **Full Stack Developer** specializing in **Java**, **Spring Boot**, and *
 
 ---
 
-💡 _"Harnessing the power of Java, Spring Boot, and AWS to build scalable solutions that make a difference!"_
+### 💡 _"Harnessing the power of Java, Spring Boot, and AWS to build scalable solutions that make a difference!"_
+
+---
+
+### Developer Animation:
+<div align="center">
+  <img src="https://media.giphy.com/media/K5y0kk2ZnQW7pU2BzT/giphy.gif" alt="Developer Animation" width="350" />
+</div>
