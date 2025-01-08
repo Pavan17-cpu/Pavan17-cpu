@@ -31,7 +31,6 @@ I hold globally recognized certifications in **AWS Cloud Practitioner**, **AWS S
 | **Databases**           | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) |
 | **Cloud**               | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) |
 
-
 ---
 
 ## 🏆 Achievements
@@ -42,34 +41,14 @@ I hold globally recognized certifications in **AWS Cloud Practitioner**, **AWS S
   Developed a **MERN application** for an NGO using **AWS Analytics** to enhance functionality.
 
 - **Coursevita Hackathon 2024**  
-  Built a **project tracker** with **role-based authentication** for managing deadlines.
+  ![Coursevita](https://www.coursevita.com/logo.png)  
+  Participated in developing a solution for the hackathon, tackling complex real-world problems using innovative tech stacks.
 
 ---
 
-## 📚 Notable Projects
+## 🌐 Get in Touch
 
-| **Project**                           | **Description**                                                                                  | **Tech Stack**                           |
-|---------------------------------------|--------------------------------------------------------------------------------------------------|------------------------------------------|
-| **[Room Rental System](#)**           | A platform for managing room rentals using interactive UI.                                       | React, Node.js, MongoDB                  |
-| **[Library Management System](#)**    | A full-stack system for library operations using **Java** technologies.                         | JSF, JPA, MySQL                          |
-| **[Aniflow](#)**                       | Anime streaming site with an integrated API for reviews and playback.                          | MERN                                     |
-| **[E-Commerce Platform](#)**          | Online shopping platform with Redux-based state management.                                      | React, Redux, Node.js                    |
+- [LinkedIn](https://www.linkedin.com/in/tiparanimanikanta/)  
+- [GitHub](https://github.com/Tiparani)
 
 ---
-
-## 📈 Stats & Visuals
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pavan17-cpu&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pavan17-cpu&layout=compact&theme=radical)
-
----
-
-## 🌐 Let's Connect
-
-[![GitHub](https://img.shields.io/badge/GitHub-Pavan17--cpu-blue?style=for-the-badge&logo=github)](https://github.com/Pavan17-cpu)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Manikanta%20Sai%20Pavan-blue?style=for-the-badge&logo=linkedin)](http://www.linkedin.com/in/manikanta-sai-pavan)  
-[![Email](https://img.shields.io/badge/Email-mmsp13266%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:mmsp13266@gmail.com)
-
----
-
-💡 _"Harnessing the power of AWS and cutting-edge technologies to drive impactful solutions."_ 
