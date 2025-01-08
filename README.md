@@ -3,7 +3,7 @@
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/ZeRM6VTR5sU1W/giphy.gif" alt="Java Animation" width="300"/>
+  <img src="https://media.giphy.com/media/1yxFvq9SkkIikR2E4g/giphy.gif" alt="Java Animation" width="300"/>
 </div>
 
 ---
@@ -14,7 +14,7 @@ I am a **Full Stack Developer** specializing in **Java**, **Spring Boot**, and *
 
 💡 I thrive on innovation and collaboration, participating in prestigious hackathons like:
 - **JP Morgan Code for Good**  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/JPMorgan_Chase_Logo_2008_1.svg" alt="JP Morgan Logo" height="30">  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/JPMorgan_Chase_Logo_2008_1.svg/1280px-JPMorgan_Chase_Logo_2008_1.svg.png" alt="JP Morgan Logo" height="30">  
 - **Smart India Hackathon**  
 - **Coursevita Hackathon**
 
@@ -53,7 +53,7 @@ I am a **Full Stack Developer** specializing in **Java**, **Spring Boot**, and *
 
 ### 🚀 **Hackathons**
 - **JP Morgan Code for Good 2024**  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/JPMorgan_Chase_Logo_2008_1.svg" alt="JP Morgan Logo" height="30">  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/JPMorgan_Chase_Logo_2008_1.svg/1280px-JPMorgan_Chase_Logo_2008_1.svg.png" alt="JP Morgan Logo" height="30">  
   Developed a **MERN application** for an NGO using **AWS Analytics** to enhance functionality.
 
 - **Smart India Hackathon 2024**  
@@ -106,5 +106,5 @@ I am a **Full Stack Developer** specializing in **Java**, **Spring Boot**, and *
 
 ### Developer Animation:
 <div align="center">
-  <img src="https://media.giphy.com/media/K5y0kk2ZnQW7pU2BzT/giphy.gif" alt="Developer Animation" width="350" />
+  <img src="https://media.giphy.com/media/6hDdrkPjBr9b6/giphy.gif" alt="Developer Animation" width="350" />
 </div>
