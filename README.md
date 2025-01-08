@@ -4,7 +4,7 @@
 
 ## 🌟 About Me
 
-I am a **Full Stack Developer** with a strong passion for **Cloud Computing** and extensive experience in **AWS**. I specialize in building scalable, efficient applications using **MERN Stack**, **Spring Boot**, and **AWS services**. My journey has been fueled by innovation, problem-solving, and participation in **hackathons** like JP Morgan’s **Code for Good** and **Smart India Hackathon**.  
+I am a **Full Stack Developer** with a strong passion for **Cloud Computing** and extensive experience in **AWS**. I specialize in building scalable, efficient applications using **MERN Stack**, **Spring Boot**, and **AWS services**. My journey has been fueled by innovation and participation in **hackathons** like JP Morgan’s **Code for Good** and **Smart India Hackathon**.  
 
 I hold globally recognized certifications in **AWS Cloud Practitioner**, **AWS Solutions Architect – Associate**, and **Red Hat Enterprise Application Development**, reflecting my commitment to continuous learning and expertise in modern technologies.
 
