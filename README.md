@@ -3,7 +3,7 @@
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/1yxFvq9SkkIikR2E4g/giphy.gif" alt="Java Animation" width="300"/>
+  <img src="https://media.tenor.com/images/d4ec4a2dbfe0707f618a4f65e07c2c88/tenor.gif" alt="Java Animation" width="300"/>
 </div>
 
 ---
@@ -106,5 +106,5 @@ I am a **Full Stack Developer** specializing in **Java**, **Spring Boot**, and *
 
 ### Developer Animation:
 <div align="center">
-  <img src="https://media.giphy.com/media/6hDdrkPjBr9b6/giphy.gif" alt="Developer Animation" width="350" />
+  <img src="https://media.tenor.com/images/53bda5b3724b68739359b27817ca5061/tenor.gif" alt="Developer Animation" width="350" />
 </div>
