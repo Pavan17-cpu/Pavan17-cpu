@@ -38,7 +38,7 @@ I hold globally recognized certifications in **AWS Cloud Practitioner**, **AWS S
 
 ### 🚀 Hackathons
 - **JP Morgan Code for Good 2024**  
-  ![MERN](https://www.almabetter.com/_next/image?url=%2Fassets%2Frefer-and-earn%2FDot%20grid.png&w=1920&q=75)  
+  ![MERN](https://blog.nextideatech.com/wp-content/uploads/2022/12/1_FVtCyRdJ6KOr4YswTtwMeA-1024x586.jpeg)  
   Developed a **MERN application** for an NGO using **AWS Analytics** to enhance functionality.
 
 - **Coursevita Hackathon 2024**  
