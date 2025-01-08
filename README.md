@@ -14,9 +14,9 @@ I hold globally recognized certifications in **AWS Cloud Practitioner**, **AWS S
 
 - ![AWS Cloud Practitioner](https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)  
   [View Credential](https://www.credly.com/badges/559c1cc5-609f-45de-8cc6-5a4dcae4815a/public_url)  
-- ![AWS Solutions Architect](https://img.shields.io/badge/AWS-Solutions%20Architect-orange?style=for-the-badge)  
+- ![AWS Solutions Architect](https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)  
   [View Credential](https://www.credly.com/badges/cf16d0f4-a257-4fe9-9bc8-81f4e210a2c5/public_url)  
-- ![Red Hat Certified Developer](https://img.shields.io/badge/Red%20Hat-Certified%20Developer-red?style=for-the-badge)  
+- ![Red Hat Certified Developer](https://images.credly.com/images/ae7dd2bd-1d04-43d9-b148-1ef79ec45129/image.png)  
   [View Credential](https://www.credly.com/badges/ee574b74-8eca-4b10-95e8-dfd65300dbd1/public_url)
 
 ---
@@ -30,7 +30,7 @@ I hold globally recognized certifications in **AWS Cloud Practitioner**, **AWS S
 | **Backend Development** | ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) |
 | **Databases**           | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) |
 | **Cloud**               | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) |
-| **Tools & Versioning**  | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github) |
+
 
 ---
 
@@ -38,7 +38,7 @@ I hold globally recognized certifications in **AWS Cloud Practitioner**, **AWS S
 
 ### 🚀 Hackathons
 - **JP Morgan Code for Good 2024**  
-  ![MERN](https://img.shields.io/badge/MERN-Stack-blue?style=for-the-badge)  
+  ![MERN](https://www.almabetter.com/_next/image?url=%2Fassets%2Frefer-and-earn%2FDot%20grid.png&w=1920&q=75)  
   Developed a **MERN application** for an NGO using **AWS Analytics** to enhance functionality.
 
 - **Coursevita Hackathon 2024**  
