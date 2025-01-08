@@ -3,7 +3,7 @@
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/XxZzQs8Hcs5Ti/giphy.gif" alt="Java Animation" width="300"/>
+  <img src="https://cdn.dribbble.com/users/22923/screenshots/2595694/media/4a89b4ba2e2b362aa989e7b9f5e7ab84.gif" alt="Java Animation" width="300"/>
 </div>
 
 ---
