@@ -1,75 +1,122 @@
-# 👋 Hello, I'm TIPARANI MANIKANTA SAI PAVAN!
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Manikanta Sai Pavan - Portfolio</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+  <style>
+    body {
+      font-family: 'Roboto', sans-serif;
+      margin: 0;
+      padding: 0;
+      background: linear-gradient(120deg, #232526, #414345);
+      color: white;
+    }
+    .container {
+      text-align: center;
+      padding: 20px;
+    }
+    h1, h2 {
+      margin: 10px 0;
+      animation: fadeIn 2s ease-in-out;
+    }
+    p {
+      font-size: 18px;
+      animation: slideIn 1.5s ease-in-out;
+    }
+    .certifications img {
+      width: 150px;
+      height: auto;
+      margin: 10px;
+      transition: transform 0.3s;
+    }
+    .certifications img:hover {
+      transform: scale(1.1);
+    }
+    .tech-stack div {
+      display: inline-block;
+      margin: 15px;
+      text-align: center;
+    }
+    .tech-stack img {
+      width: 70px;
+      height: auto;
+      transition: transform 0.3s;
+    }
+    .tech-stack img:hover {
+      transform: scale(1.2);
+    }
+    .social-links a {
+      text-decoration: none;
+      color: white;
+      margin: 0 10px;
+      font-size: 24px;
+      transition: transform 0.3s;
+    }
+    .social-links a:hover {
+      transform: scale(1.2);
+      color: #00acee;
+    }
+    @keyframes fadeIn {
+      from { opacity: 0; transform: translateY(-20px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+    @keyframes slideIn {
+      from { opacity: 0; transform: translateX(-50px); }
+      to { opacity: 1; transform: translateX(0); }
+    }
+  </style>
+</head>
+<body>
 
----
+  <div class="container">
+    <h1>👋 Hello, I'm TIPARANI MANIKANTA SAI PAVAN!</h1>
+    <p>
+      Harnessing the power of <strong>AWS</strong> and cutting-edge technologies to drive impactful solutions.
+    </p>
 
-## 🌟 About Me
+    <h2>🎓 Certifications</h2>
+    <div class="certifications">
+      <a href="https://www.credly.com/badges/559c1cc5-609f-45de-8cc6-5a4dcae4815a/public_url" target="_blank">
+        <img src="https://d1.awsstatic.com/logos/aws_logo_smile_1200x630.png" alt="AWS Cloud Practitioner">
+      </a>
+      <a href="https://www.credly.com/badges/cf16d0f4-a257-4fe9-9bc8-81f4e210a2c5/public_url" target="_blank">
+        <img src="https://d1.awsstatic.com/logos/aws_logo_smile_1200x630.png" alt="AWS Solutions Architect">
+      </a>
+      <a href="https://www.credly.com/badges/ee574b74-8eca-4b10-95e8-dfd65300dbd1/public_url" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Red_Hat_Enterprise_Linux_Logo.svg" alt="Red Hat Certified Developer">
+      </a>
+    </div>
 
-I am a **Full Stack Developer** with a strong passion for **Cloud Computing** and extensive experience in **AWS**. I specialize in building scalable, efficient applications using **MERN Stack**, **Spring Boot**, and **AWS services**. My journey has been fueled by innovation, problem-solving, and participation in **hackathons** like JP Morgan’s **Code for Good** and **Smart India Hackathon**.  
+    <h2>🛠️ My Tech Stack</h2>
+    <div class="tech-stack">
+      <div>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java">
+        <p>Java</p>
+      </div>
+      <div>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React">
+        <p>React.js</p>
+      </div>
+      <div>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot">
+        <p>Spring Boot</p>
+      </div>
+      <div>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB">
+        <p>MongoDB</p>
+      </div>
+    </div>
 
-I hold globally recognized certifications in **AWS Cloud Practitioner**, **AWS Solutions Architect – Associate**, and **Red Hat Enterprise Application Development**, reflecting my commitment to continuous learning and expertise in modern technologies.
+    <h2>🌐 Let's Connect</h2>
+    <div class="social-links">
+      <a href="https://github.com/Pavan17-cpu" target="_blank"><i class="fab fa-github"></i></a>
+      <a href="http://www.linkedin.com/in/manikanta-sai-pavan" target="_blank"><i class="fab fa-linkedin"></i></a>
+      <a href="mailto:mmsp13266@gmail.com"><i class="fas fa-envelope"></i></a>
+    </div>
+  </div>
 
----
-
-## 🎓 Certifications
-
-- ![AWS Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud%20Practitioner-orange?style=for-the-badge)  
-  [View Credential](https://www.credly.com/badges/559c1cc5-609f-45de-8cc6-5a4dcae4815a/public_url)  
-- ![AWS Solutions Architect](https://img.shields.io/badge/AWS-Solutions%20Architect-orange?style=for-the-badge)  
-  [View Credential](https://www.credly.com/badges/cf16d0f4-a257-4fe9-9bc8-81f4e210a2c5/public_url)  
-- ![Red Hat Certified Developer](https://img.shields.io/badge/Red%20Hat-Certified%20Developer-red?style=for-the-badge)  
-  [View Credential](https://www.credly.com/badges/ee574b74-8eca-4b10-95e8-dfd65300dbd1/public_url)
-
----
-
-## 🛠️ My Tech Stack
-
-| **Category**           | **Skills**                                                                                 |
-|-------------------------|-------------------------------------------------------------------------------------------|
-| **Programming**         | ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) |
-| **Frontend Development**| ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![JSF](https://img.shields.io/badge/JSF-lightgrey?style=for-the-badge) |
-| **Backend Development** | ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) |
-| **Databases**           | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) |
-| **Cloud**               | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) |
-| **Tools & Versioning**  | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github) |
-
----
-
-## 🏆 Achievements
-
-### 🚀 Hackathons
-- **JP Morgan Code for Good 2024**  
-  ![MERN](https://img.shields.io/badge/MERN-Stack-blue?style=for-the-badge)  
-  Developed a **MERN application** for an NGO using **AWS Analytics** to enhance functionality.
-
-- **Coursevita Hackathon 2024**  
-  Built a **project tracker** with **role-based authentication** for managing deadlines.
-
----
-
-## 📚 Notable Projects
-
-| **Project**                           | **Description**                                                                                  | **Tech Stack**                           |
-|---------------------------------------|--------------------------------------------------------------------------------------------------|------------------------------------------|
-| **[Room Rental System](#)**           | A platform for managing room rentals using interactive UI.                                       | React, Node.js, MongoDB                  |
-| **[Library Management System](#)**    | A full-stack system for library operations using **Java** technologies.                         | JSF, JPA, MySQL                          |
-| **[Aniflow](#)**                       | Anime streaming site with an integrated API for reviews and playback.                          | MERN                                     |
-| **[E-Commerce Platform](#)**          | Online shopping platform with Redux-based state management.                                      | React, Redux, Node.js                    |
-
----
-
-## 📈 Stats & Visuals
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pavan17-cpu&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pavan17-cpu&layout=compact&theme=radical)
-
----
-
-## 🌐 Let's Connect
-
-[![GitHub](https://img.shields.io/badge/GitHub-Pavan17--cpu-blue?style=for-the-badge&logo=github)](https://github.com/Pavan17-cpu)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Manikanta%20Sai%20Pavan-blue?style=for-the-badge&logo=linkedin)](http://www.linkedin.com/in/manikanta-sai-pavan)  
-[![Email](https://img.shields.io/badge/Email-mmsp13266%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:mmsp13266@gmail.com)
-
----
-
-💡 _"Harnessing the power of AWS and cutting-edge technologies to drive impactful solutions."_ --> could you make it ore attractive and colourful with animations and stuff
+</body>
+</html>
