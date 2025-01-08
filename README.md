@@ -72,4 +72,4 @@ I hold globally recognized certifications in **AWS Cloud Practitioner**, **AWS S
 
 ---
 
-💡 _"Harnessing the power of AWS and cutting-edge technologies to drive impactful solutions."_ --> could you make it ore attractive and colourful with animations and stuff
+💡 _"Harnessing the power of AWS and cutting-edge technologies to drive impactful solutions."_ 
