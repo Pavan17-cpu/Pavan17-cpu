@@ -39,23 +39,14 @@ I hold globally recognized certifications in **AWS Cloud Practitioner**, **AWS S
 ### 🚀 Hackathons
 - **JP Morgan Code for Good 2024**  
   ![MERN](https://img.shields.io/badge/MERN-Stack-blue?style=for-the-badge)  
-  Developed a **MERN application** for an NGO using **AWS Analytics** to enhance functionality.
+  Developed a **MERN application** for an NGO used **AWS Analytics** to enhance functionality.
 
 - **Coursevita Hackathon 2024**  
   Built a **project tracker** with **role-based authentication** for managing deadlines.
 
 ---
 
-## 📚 Notable Projects
 
-| **Project**                           | **Description**                                                                                  | **Tech Stack**                           |
-|---------------------------------------|--------------------------------------------------------------------------------------------------|------------------------------------------|
-| **[Room Rental System](#)**           | A platform for managing room rentals using interactive UI.                                       | React, Node.js, MongoDB                  |
-| **[Library Management System](#)**    | A full-stack system for library operations using **Java** technologies.                         | JSF, JPA, MySQL                          |
-| **[Aniflow](#)**                       | Anime streaming site with an integrated API for reviews and playback.                          | MERN                                     |
-| **[E-Commerce Platform](#)**          | Online shopping platform with Redux-based state management.                                      | React, Redux, Node.js                    |
-
----
 
 ## 📈 Stats & Visuals
 
